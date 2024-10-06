@@ -87,6 +87,6 @@ Languages and Tools:
 - 🤔 I’m looking for help me to reach out for the jobs 
 - 💬 Ask me about my skills
 - 📫 How to reach me: My Mail id anuragkatolkar123@gmail.com and also my contact number +919172840414 
-- 😄 Pronouns: him 
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am interested in designing and exploring new things.
 
