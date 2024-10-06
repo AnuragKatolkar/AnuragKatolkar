@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **AnuragKatolkar/AnuragKatolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -92,4 +92,4 @@ Languages and Tools:
 - 📫 How to reach me: My Mail id anuragkatolkar123@gmail.com and also my contact number 9172840414 
 - 😄 Pronouns: him 
 - ⚡ Fun fact: I am interested in designing and exploring new things.
--->
+
