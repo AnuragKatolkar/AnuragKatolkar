@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-
-**AnuragKatolkar/AnuragKatolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ...### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anurag-katolkar-2a4a16214/)](https://www.linkedin.com/in/anurag-katolkar-2a4a16214/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anurag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anurag-katolkar-2a4a16214/)](https://www.linkedin.com/in/anurag-katolkar-2a4a16214/)
 
 
 I'm
@@ -22,7 +17,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="41" />
     </a>
     
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a  href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
  
@@ -83,7 +78,7 @@ Languages and Tools:
     </a>
     
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"  />
     </a>
 
 - 👯 I’m looking to collaborate with good and supportive organisation.
