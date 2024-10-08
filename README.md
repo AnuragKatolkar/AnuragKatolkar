@@ -8,7 +8,7 @@
 
 I'm
 Full Stack Developer
-The crossover between design and programming has always been of interest to me .I have a wide range of  skills that include front-end development using technologies ( ReactJs , Angular14 , HTML5, CSS3, JavaScript ES6, Express, Bootstrap , Responsive , UI), back-end technologies (NodeJs) , Sever Administrator (AWS lambda ), database (Mongodb, postgres, Mysql ),CI/CD(Docker).
+The crossover between design and programming has always been of interest to me .I have a wide range of  skills that include front-end development using technologies ( ReactJs , Angular14 , HTML5, CSS3, JavaScript ES6, Express, Bootstrap , Responsive , UI), back-end technologies (NodeJs) , Sever Administrator (AWS lambda ), database (Mongodb, postgres , Mysql ), CI/CD (Docker).
 
 
 Languages and Tools: 
